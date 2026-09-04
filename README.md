@@ -267,9 +267,3 @@ Planned possibilities include:
 Because GitHub contribution graphs are basically tiny calendars made of pixels.
 
 Why not use them as one?
-
-## License
-
-This project is provided for educational and experimental purposes.
-
-Feel free to modify, extend, and experiment with the code.
